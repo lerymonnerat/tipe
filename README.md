@@ -1,4 +1,4 @@
-# tipe
+# TIPE
 Ce dépôt regroupe les TIPE (travaux d'initiative personnelle encadrés) que j'ai effectués au cours de ma classe préparatoire :
 
 - [tipes](tipe_1a)  en  première année :
