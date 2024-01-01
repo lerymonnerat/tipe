@@ -1,3 +1,3 @@
 ## TIPE de première année
-- étude du profil d’épaisseur d’une lame de savon.
-- coloration de colliers
+- Étude du profil d’épaisseur d’une lame de savon.
+- Coloration de colliers avec un théorème de Polya.
